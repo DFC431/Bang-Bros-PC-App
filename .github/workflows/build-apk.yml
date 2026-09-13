@@ -30,7 +30,7 @@ jobs:
       - name: Extract Android project
         run: |
           mkdir -p project
-          unzip -o Bang_Bros_PC_Android_Project_FIXED.zip -d project
+          unzip -o Bang_Bros_PC_Android_Project_BUILD2.zip -d project
 
       - name: Find project folder
         run: |
